@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/zhushaoting/Documents/C++/chap2/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/chap2.dir/chap2.cpp.o -c /Users/zhushaoting/Documents/C++/chap2/chap2.cpp",
+  "file": "/Users/zhushaoting/Documents/C++/chap2/chap2.cpp"
+},
+{
+  "directory": "/Users/zhushaoting/Documents/C++/chap2/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -o CMakeFiles/chap2.dir/stack.cpp.o -c /Users/zhushaoting/Documents/C++/chap2/stack.cpp",
+  "file": "/Users/zhushaoting/Documents/C++/chap2/stack.cpp"
+}
+]
